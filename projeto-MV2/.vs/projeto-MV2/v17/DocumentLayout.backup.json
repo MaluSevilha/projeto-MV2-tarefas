@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malus\\MV2-projeto\\projeto-MV2-tarefas\\projeto-MV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20275EF8-77CD-46EA-8C32-1047B63D6638}|projeto-MV2\\projeto-MV2.csproj|c:\\users\\malus\\mv2-projeto\\projeto-mv2-tarefas\\projeto-mv2\\projeto-mv2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20275EF8-77CD-46EA-8C32-1047B63D6638}|projeto-MV2\\projeto-MV2.csproj|solutionrelative:projeto-mv2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20275EF8-77CD-46EA-8C32-1047B63D6638}|projeto-MV2\\projeto-MV2.csproj|c:\\users\\malus\\mv2-projeto\\projeto-mv2-tarefas\\projeto-mv2\\projeto-mv2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20275EF8-77CD-46EA-8C32-1047B63D6638}|projeto-MV2\\projeto-MV2.csproj|solutionrelative:projeto-mv2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\malus\\MV2-projeto\\projeto-MV2-tarefas\\projeto-MV2\\projeto-MV2\\Form1.cs",
+              "RelativeDocumentMoniker": "projeto-MV2\\Form1.cs",
+              "ToolTip": "C:\\Users\\malus\\MV2-projeto\\projeto-MV2-tarefas\\projeto-MV2\\projeto-MV2\\Form1.cs [Design]",
+              "RelativeToolTip": "projeto-MV2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:52:32.793Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\malus\\MV2-projeto\\projeto-MV2-tarefas\\projeto-MV2\\projeto-MV2\\Form1.cs",
+              "RelativeDocumentMoniker": "projeto-MV2\\Form1.cs",
+              "ToolTip": "C:\\Users\\malus\\MV2-projeto\\projeto-MV2-tarefas\\projeto-MV2\\projeto-MV2\\Form1.cs",
+              "RelativeToolTip": "projeto-MV2\\Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:52:07.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

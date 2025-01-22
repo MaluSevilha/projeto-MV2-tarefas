@@ -1,0 +1,12 @@
+C:\Users\malus\MV2-projeto\projeto-MV2-tarefas\projeto-MV2\projeto-MV2\obj\Debug\projeto_MV2.CreateTarefa.resources
+C:\Users\malus\MV2-projeto\projeto-MV2-tarefas\projeto-MV2\projeto-MV2\obj\Debug\projeto_MV2.Form1.resources
+C:\Users\malus\MV2-projeto\projeto-MV2-tarefas\projeto-MV2\projeto-MV2\obj\Debug\projeto_MV2.Main.resources
+C:\Users\malus\MV2-projeto\projeto-MV2-tarefas\projeto-MV2\projeto-MV2\obj\Debug\projeto_MV2.Properties.Resources.resources
+C:\Users\malus\MV2-projeto\projeto-MV2-tarefas\projeto-MV2\projeto-MV2\obj\Debug\projeto-MV2.csproj.GenerateResource.cache
+C:\Users\malus\MV2-projeto\projeto-MV2-tarefas\projeto-MV2\projeto-MV2\obj\Debug\projeto-MV2.csproj.CoreCompileInputs.cache
+C:\Users\malus\MV2-projeto\projeto-MV2-tarefas\projeto-MV2\projeto-MV2\bin\Debug\projeto-MV2.exe.config
+C:\Users\malus\MV2-projeto\projeto-MV2-tarefas\projeto-MV2\projeto-MV2\bin\Debug\projeto-MV2.exe
+C:\Users\malus\MV2-projeto\projeto-MV2-tarefas\projeto-MV2\projeto-MV2\bin\Debug\projeto-MV2.pdb
+C:\Users\malus\MV2-projeto\projeto-MV2-tarefas\projeto-MV2\projeto-MV2\obj\Debug\projeto-MV2.exe
+C:\Users\malus\MV2-projeto\projeto-MV2-tarefas\projeto-MV2\projeto-MV2\obj\Debug\projeto-MV2.pdb
+C:\Users\malus\MV2-projeto\projeto-MV2-tarefas\projeto-MV2\projeto-MV2\obj\Debug\projeto-MV2.csproj.AssemblyReference.cache
